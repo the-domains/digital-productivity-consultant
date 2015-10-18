@@ -1,4 +1,4 @@
-name: null
+name: Digital Productivity Consultant
 favicon: null
 layout_spectrum: 0.5877920067869127
 typography_spectrum: 0.5223289439454675
@@ -16,7 +16,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.24676160095259547
+  brandStrength: 0.625
   lightness: 0.030304316664114594
   saturation: 0.9764935923740268
   rhythmicContrast: 0.590932322666049
